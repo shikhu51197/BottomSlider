@@ -23,13 +23,12 @@
 
 ## ✨ Snapshot
 
-![Screenshot (1758)](https://github.com/shikhu51197/BottomSlider/assets/107506646/7cec433a-fe4b-436b-b9c0-7657e1e19450)
 
-![Screenshot (1756)](https://github.com/shikhu51197/BottomSlider/assets/107506646/30e2ba15-58f9-4503-a62c-610cc25b2ef0)
+![Screenshot (1759)](https://github.com/shikhu51197/BottomSlider/assets/107506646/4a660061-cc93-4ffc-9aa0-58003af8ecd7)
 
-![Screenshot (1757)](https://github.com/shikhu51197/BottomSlider/assets/107506646/3f21a01a-ea4a-47e7-976d-f6f1722a76e1)
+![Screenshot (1760)](https://github.com/shikhu51197/BottomSlider/assets/107506646/3ea8ddec-3c8e-489f-9faa-25fd398c09f4)
 
-
+![Screenshot (1761)](https://github.com/shikhu51197/BottomSlider/assets/107506646/07ce2000-a6e9-4740-88fb-74042f6bd7c0)
 
 ## 🔗 Profile Links✨
 
