@@ -41,7 +41,7 @@
 
 ✨we can use the (tab + enter) button to  click any button or use that functionality to fully open view or fully close view.
 
-
+✨we can use the tab only to open the half slider and  the (tab + enter) button to  open the full view of slider.
 
 ## ✨ Snapshot
 
