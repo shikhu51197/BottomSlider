@@ -32,15 +32,25 @@
 ✨Run the command `npm start` in the frontend folder run on localhost:3000.
 
 
+
+## ⭕Steps to use our project:
+
+✨you can drag that slider till half by one time click and by next time for full view.
+
+✨ we can use the (ESC) button keyboard  to close the slider or use a button for a full close view.
+
+✨we can use the (tab + enter) button to  click any button or use that functionality to fully open view or fully close view.
+
+
+
 ## ✨ Snapshot
 
 
-![Screenshot (1759)](https://github.com/shikhu51197/BottomSlider/assets/107506646/4a660061-cc93-4ffc-9aa0-58003af8ecd7)
+![Screenshot (1759)](https://github.com/shikhu51197/BottomSlider/assets/107506646/4b8c9b67-5a7c-4abc-b6ab-84f50009b6bd)
 
-![Screenshot (1760)](https://github.com/shikhu51197/BottomSlider/assets/107506646/3ea8ddec-3c8e-489f-9faa-25fd398c09f4)
+![Screenshot (1760)](https://github.com/shikhu51197/BottomSlider/assets/107506646/f3b2fa58-9c75-4fa9-bcf6-79fbb76f137b)
 
-![Screenshot (1761)](https://github.com/shikhu51197/BottomSlider/assets/107506646/07ce2000-a6e9-4740-88fb-74042f6bd7c0)
-
+![Screenshot (1761)](https://github.com/shikhu51197/BottomSlider/assets/107506646/8473545f-e666-4ac2-af16-a7df07346836)
 
 
 
