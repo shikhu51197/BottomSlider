@@ -3,6 +3,17 @@
 
 <a href="https://drive.google.com/file/d/1wGUVmF_1ClMeSdroRaoua4uVcG257zW6/view?usp=sharing">![Demo video of Project](https://img.shields.io/badge/Demo_Video_Of_Project-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
+
+## 🔗 Profile Links✨
+
+
+
+
+| Resume | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Resume](https://img.shields.io/badge/my_Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) |  
+
+
 ## 💫Tech-Stack->
 
 - #### For Frontend :-
@@ -23,19 +34,19 @@
 
 ## ✨ Snapshot
 
-![Screenshot (1758)](https://github.com/shikhu51197/BottomSlider/assets/107506646/7cec433a-fe4b-436b-b9c0-7657e1e19450)
 
-![Screenshot (1756)](https://github.com/shikhu51197/BottomSlider/assets/107506646/30e2ba15-58f9-4503-a62c-610cc25b2ef0)
+![Screenshot (1759)](https://github.com/shikhu51197/BottomSlider/assets/107506646/4a660061-cc93-4ffc-9aa0-58003af8ecd7)
 
-![Screenshot (1757)](https://github.com/shikhu51197/BottomSlider/assets/107506646/3f21a01a-ea4a-47e7-976d-f6f1722a76e1)
+![Screenshot (1760)](https://github.com/shikhu51197/BottomSlider/assets/107506646/3ea8ddec-3c8e-489f-9faa-25fd398c09f4)
 
-
-
-## 🔗 Profile Links✨
+![Screenshot (1761)](https://github.com/shikhu51197/BottomSlider/assets/107506646/07ce2000-a6e9-4740-88fb-74042f6bd7c0)
 
 
 
 
-| Resume | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Resume](https://img.shields.io/badge/my_Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) |  
+---
+
+
+<h1 align="center">✨Thank You✨</h1>
+
+    
