@@ -19,6 +19,10 @@
 ✨Run the command `npm install` in both the frontend  folders.
 
 ✨Run the command `npm start` in the frontend folder run on localhost:3000.
+
+
+## ✨ Snapshot
+
 ![Screenshot (1758)](https://github.com/shikhu51197/BottomSlider/assets/107506646/7cec433a-fe4b-436b-b9c0-7657e1e19450)
 
 ![Screenshot (1756)](https://github.com/shikhu51197/BottomSlider/assets/107506646/30e2ba15-58f9-4503-a62c-610cc25b2ef0)
