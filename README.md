@@ -1,7 +1,7 @@
 > 💻 PROJECT NAME ✨ => Bottom slider with 3 snap points:-
 <br>
 
-<a href="https://drive.google.com/file/d/1wGUVmF_1ClMeSdroRaoua4uVcG257zW6/view?usp=sharing">![Demo video of Project](https://img.shields.io/badge/Demo_Video_Of_Project-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
+<a href="https://drive.google.com/file/d/18g84Ux136i9Mpb9_gKYQgUJ4o95OZc14/view?usp=sharing">![Demo video of Project](https://img.shields.io/badge/Demo_Video_Of_Project-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
 
 ## 🔗 Profile Links✨
@@ -20,7 +20,6 @@
    - `HTML5`
   - `CSS3`
   - `JavaScript `
-   - `Redux`
   - `ReactJS`
 
 ## ⭕Steps to run our project:
@@ -41,7 +40,7 @@
 
 ✨we can use the (tab + enter) button to  click any button or use that functionality to fully open view or fully close view.
 
-✨we can use the tab only to open the half slider and  the (tab + enter) button to  open the full view of slider.
+✨we can use the tab button to see those buttons and  the (tab + enter) button to  open the slider on half and full view of slider.
 
 ## ✨ Snapshot
 
