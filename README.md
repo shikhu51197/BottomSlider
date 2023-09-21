@@ -1,6 +1,7 @@
 > 💻 PROJECT NAME ✨ => Bottom slider with 3 snap points:-
 <br>
-<a href="https://drive.google.com/file/d/1wGUVmF_1ClMeSdroRaoua4uVcG257zW6/view?usp=sharing">![Demo video of Project](https://img.shields.io/badge/Demo_Video_Of_Game-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
+
+<a href="https://drive.google.com/file/d/1wGUVmF_1ClMeSdroRaoua4uVcG257zW6/view?usp=sharing">![Demo video of Project](https://img.shields.io/badge/Demo_Video_Of_Project-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
 ## 💫Tech-Stack->
 
